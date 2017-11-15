@@ -11,10 +11,9 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
 * [Haskell](https://github.com/marcoswebermw/learning-haskell);
 * [HTML5]();
 * [Java](https://github.com/marcoswebermw/learning-java);
-* [Javascript](https://github.com/marcoswebermw/learning-javascript);
+* [Javascript/NodeJS](https://github.com/marcoswebermw/learning-javascript);
 * [Kotlin]();
 * [Lua]();
-* [NodeJs]();
 * [Php](https://github.com/marcoswebermw/learning-php);
 * [Python](https://github.com/marcoswebermw/learning-python);
 * [R]();
