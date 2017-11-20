@@ -5,11 +5,10 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
 
 * [Asp](https://github.com/marcoswebermw/learning-asp);
 * [C]();
-* [CSS]();
 * **[C#](https://github.com/marcoswebermw/learning-c-sharp);**
 * [Go]();
 * [Haskell](https://github.com/marcoswebermw/learning-haskell);
-* [HTML5]();
+* [HTML5/CSS]();
 * **[Java](https://github.com/marcoswebermw/learning-java);**
 * **[Javascript/NodeJS](https://github.com/marcoswebermw/learning-javascript);**
 * [Kotlin]();
