@@ -12,7 +12,7 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
 * **[Java](https://github.com/marcoswebermw/learning-java);**
 * **[Javascript/NodeJS](https://github.com/marcoswebermw/learning-javascript);**
 * [Kotlin]();
-* [Lua]();
+* [Lua](https://github.com/marcoswebermw/learning-lua);
 * **[Php](https://github.com/marcoswebermw/learning-php);**
 * **[Python](https://github.com/marcoswebermw/learning-python);**
 * [R]();
