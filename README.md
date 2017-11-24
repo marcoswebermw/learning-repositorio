@@ -4,7 +4,7 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
 ### Linguagens
 
 * [Asp](https://github.com/marcoswebermw/learning-asp);
-* [C]();
+* [C](https://github.com/marcoswebermw/learning-c);
 * **[C#](https://github.com/marcoswebermw/learning-c-sharp);**
 * [Go]();
 * [Haskell](https://github.com/marcoswebermw/learning-haskell);
