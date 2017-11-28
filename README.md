@@ -63,5 +63,5 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
   
 * [Matemática](https://github.com/marcoswebermw/learning-matematica);
 * [Português]();
-* [Estatística]();
-* [Português]();
+* [Estatística](https://github.com/marcoswebermw/learning-matematica/tree/master/estatistica);
+  
