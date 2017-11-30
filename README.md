@@ -28,6 +28,7 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
 * [React](https://github.com/marcoswebermw/learning-react);
 * [Spring]();
 * [VueJs]();
+* [Laravel]();
 
 
 ### Bancos de Dados
