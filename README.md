@@ -58,6 +58,7 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
 * [Segurança da Informação]();
 * [Sistemas Operacionais]();
 * [Testes]();
+* [DevOps]();
   
     
 ### Outros
