@@ -50,7 +50,7 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
 * [Cobit]();
 * [Design Patterns]();
 * [Docker](https://github.com/marcoswebermw/docker-training);
-* [Estrutura de Dados](https://github.com/marcoswebermw/estruturadedados-em-varias-linguagens);
+* [Estrutura de Dados](https://github.com/marcoswebermw/learning-estruturas-de-dados);
 * [Estudos Variádos](https://github.com/marcoswebermw/estudos);
 * [Git](https://github.com/marcoswebermw/learning-git);
 * [Itil]();
