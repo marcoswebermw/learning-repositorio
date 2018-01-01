@@ -49,16 +49,15 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
 * [Android]();
 * [Cobit]();
 * [Engenharia de Software](https://github.com/marcoswebermw/learning-engenharia-de-software);
-* [Docker](https://github.com/marcoswebermw/docker-training);
 * [Estrutura de Dados](https://github.com/marcoswebermw/learning-estruturas-de-dados);
 * [Estudos Variádos](https://github.com/marcoswebermw/estudos);
 * [Git](https://github.com/marcoswebermw/learning-git);
 * [Itil]();
 * [Redes]();
 * [Segurança da Informação]();
-* [Sistemas Operacionais]();
+* [Sistemas Operacionais](https://github.com/marcoswebermw/learning-sistemas-operacionais.git);
 * [Testes]();
-* [DevOps]();
+* [DevOps](https://github.com/marcoswebermw/learning-devops.git);
   
     
 ### Outros
