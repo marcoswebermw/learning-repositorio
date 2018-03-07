@@ -53,7 +53,7 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
 * [Estudos Variádos](https://github.com/marcoswebermw/estudos);
 * [Git](https://github.com/marcoswebermw/learning-git);
 * [Itil]();
-* [Redes]();
+* [Redes](https://github.com/marcoswebermw/learning-redes.git);
 * [Segurança da Informação]();
 * [Sistemas Operacionais](https://github.com/marcoswebermw/learning-sistemas-operacionais.git);
 * [Testes]();
