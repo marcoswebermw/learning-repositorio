@@ -66,3 +66,8 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
 * [Português]();
 * [Estatística](https://github.com/marcoswebermw/learning-matematica/tree/master/estatistica);
   
+-------------
+
+##  
+
+*[Big Data](https://github.com/marcoswebermw/learning-repositorio/blob/master/estudos/bigdata/bigdata.md);  
