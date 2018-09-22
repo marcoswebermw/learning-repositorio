@@ -15,3 +15,17 @@ Algumas das principais tecnologias por trás da nuvem são:
 - `Virtualização` - Tecnologia usada para criar containers(instâncias) isolados um do outro, que além do isolamento, trás vantagens como replicação e clonagem fácil de máquinas, subir novas instâncias, etc.  
 
 > Nem tudo funciona em cima da Internet.  
+
+-----------------------  
+
+## Exemplos de Empresas de Cloud  
+
+- Amazon;  
+- Google;  
+- Digital Ocean;  
+- Microsoft;  
+- Heroky;  
+- Citrix;  
+- Dropbox;  
+- RackSpace;  
+
