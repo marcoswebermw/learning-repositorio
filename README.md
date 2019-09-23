@@ -68,6 +68,6 @@ Lista com meus repositórios de estudos dentro do Github. Somente para facilitar
   
 -------------
 
-##  
+## Big Data 
 
-* [Big Data](https://github.com/marcoswebermw/learning-repositorio/blob/master/estudos/bigdata/bigdata.md)  
+* [Big Data](https://github.com/marcoswebermw/learning-repositorio/tree/master/estudos/bigdata)  
