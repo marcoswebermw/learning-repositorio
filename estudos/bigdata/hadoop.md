@@ -30,7 +30,7 @@ O comando `hdfs` será o responsável por gerenciar as operações no Hadoop.
 
 ```sh
 # Listando diretórios. Inicialmente estará vazio.
-/usr/local/hadoop/bin/hdfs dfs -ls
+/usr/local/hadoop/bin/hdfs dfs -ls /
 
 # Criando um diretório no HDFS.
 /usr/local/hadoop/bin/hdfs dfs -mkdir /IGTI
