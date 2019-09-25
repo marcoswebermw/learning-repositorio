@@ -88,6 +88,29 @@ Será criado um diretório contendo um arquivo com os resultados do processament
 O arquivo gerado também pode ser baixado pela interface web.  
 
  
+ **Calculando o wordmean**  
+
+Calculando o wordmean no Hadoop.  
+  
+```sh
+/usr/local/hadoop/bin/hadoop jar /usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.0.3.jar wordmean /IGTI/FBD/book.txt /IGTI/ResultadoWordMean/
+
+/usr/local/hadoop/bin/hdfs dfs -cat /IGTI/ResultadoWordMean/
+```  
+  
+  **Calculando o Desvio Padrão**  
+
+Calculando o Desvio Padrão no Hadoop.  
+  
+```sh
+/usr/local/hadoop/bin/hadoop jar /usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.0.3.jar wordstandarddeviation /IGTI/FBD/book.txt /IGTI/ResultadoWordStandardDeviation/
+
+/usr/local/hadoop/sbin/stop-all.sh
+
+jps
+```  
+  
+ 
 > O Hadoop irá instanciar um job, que poderá levar alguns minutos para executar, e vai mostrando um progresso da execução. O resultado do processo também poderá ser conferido na interface gráfica.  
   
   
